@@ -12,7 +12,7 @@
 - - 📫 How to reach me **haripriya14022003@gmail.com**
 - - :bird: &nbsp;Let's talk more in [Twitter](https://twitter.com/Hari_priyoo)
 
-<h2 align="left" id=""vmmuthu31>Favorite Tech</h2>
+<h2 align="left" id="">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
 
 <table align="center">
